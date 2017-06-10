@@ -38,6 +38,7 @@ var Input = React.createClass({
 							 onBlur={this.filterInputValue}
 							 value={this.state.value}
 							 onChange={this.onInputChange}
+							 className='valid-input'
 				/>
 			</div>
 		);

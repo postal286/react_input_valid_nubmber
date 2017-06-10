@@ -1,0 +1,8 @@
+.valid-input {
+	padding: 20px;
+	display: flex;
+	font-size: 15px;
+	margin: 100px auto;
+	border-radius: 2px;
+  border: 2px solid lightgray;
+}
